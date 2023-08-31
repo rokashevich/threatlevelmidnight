@@ -1,7 +1,7 @@
 tile_set: "/assets/my-tilesource.tilesource"
 layers {
-  id: "layer1"
-  z: 0.0
+  id: "layer0"
+  z: -0.1
   is_visible: 1
   cell {
     x: 0
@@ -837,8 +837,8 @@ layers {
   }
 }
 layers {
-  id: "layer"
-  z: 0.1
+  id: "layer1"
+  z: 0.0
   is_visible: 1
   cell {
     x: 0
